@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class AplicandoConhecimento01 {
 	
 	public static void main(String[] args) {
+		
 		System.out.println("***** BEM VINDO *****");
 		Scanner input = new Scanner(System.in);
 		int opcao;
